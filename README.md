@@ -11,7 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 🛠 Development Software
 ### [Flawless App | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday) — a tool to compare the design with the real app
-### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
+### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows
 ### [Linguan | 50% off 💸](http://linguanapp.com) — Manage the localization of iOS and Mac apps
 ### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
 ### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
@@ -39,7 +39,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
 ### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
 ### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
-### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
+### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists.
 ### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
 ### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
 ### [Little Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.
@@ -127,3 +127,4 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
 ### [Swift 5.0 Algorithms and Data Structures | 50% off 💸](https://www.waynewbishop.com/ios-interview/book) - with discount code SWIFT5
 ### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
+### [Pragmatic Bookshelf ebooks, screencasts, and audio books | 40% off 💰](https://pragprog.com/) - with coupon code turkeysale2019
